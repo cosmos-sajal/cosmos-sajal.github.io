@@ -2,7 +2,7 @@ title: Sajal Sharma # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  <h3>Engineering Lead</h3>
+  <label style="font-weight: bold; font-size: large;>Engineering Lead</label>
   <br><br>
   <img style="max-width: 6%;" src="/images/education_thumbnail.png"> M.Tech, <a href="https://www.iiit.ac.in/" target="_top" style="cursor:pointer"><label style="cursor: pointer">IIIT Hyderabad</label></a> 
   <br><br>
