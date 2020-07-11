@@ -1,6 +1,6 @@
 <h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 4%" src="/images/back.png"></a><label style="margin-left: 2%">FloBiz (Formerly Koinex) </label></h1>
 
-<h2><a href="https://flobiz.in/about/" target="_top">About the organization</a></h2>
+<h2><a href="https://flobiz.in/about/" target="_blank">About the organization</a></h2>
 
 Our mission is to disrupt the way Indian MSMEs do business through digitisation. Founded by IIT and BITS alumni, FloBiz has been incepted with the aim of digitising small businesses in India and bringing elements of formalisation into their fragmented operating processes. We are a team of hustlers who are driven by a single mission: to fuel the growth of those enterprises that fuel the growth of our economy.
 
@@ -36,9 +36,9 @@ Backed by some of the most renowned venture capitalists and angel investors acro
 
 #### Libraries contributed to Elixir (Open Source)
 
-- <a href="https://hex.pm/packages/soft_delete_helper_module" target="_top">Soft Delete Module</a>
-- <a href="https://hex.pm/packages/uuid_helper_module" target="_top">UUID Module</a>
+- <a href="https://hex.pm/packages/soft_delete_helper_module" target="_blank">Soft Delete Module</a>
+- <a href="https://hex.pm/packages/uuid_helper_module" target="_blank">UUID Module</a>
 
 ---
 
-For more details see <a href="https://flobiz.in/" target="_top">FloBiz</a>.
+For more details see <a href="https://flobiz.in/" target="_blank">FloBiz</a>.
