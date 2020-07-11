@@ -8,7 +8,7 @@ Our mission is to disrupt the way Indian MSMEs do business through digitisation.
 
 #### Engineering Lead
 
-`Elixir Based Application development (Technical Implementation)`
+**Elixir Based Application development (Technical Implementation)
 
 • Functional programming paradigm.
 
