@@ -1,6 +1,6 @@
 # FloBiz (Formerly Koinex)
 
-## About the organization
+## [About the organization](https://flobiz.in/about/)
 
 Our mission is to disrupt the way Indian MSMEs do business through digitisation. Founded by IIT and BITS alumni, FloBiz has been incepted with the aim of digitising small businesses in India and bringing elements of formalisation into their fragmented operating processes. We are a team of hustlers who are driven by a single mission: to fuel the growth of those enterprises that fuel the growth of our economy. Backed by some of the most renowned venture capitalists and angel investors across the globe, we are singularly focused on solving the biggest challenges faced by Indian MSMEs.
 
