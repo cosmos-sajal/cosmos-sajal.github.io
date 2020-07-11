@@ -51,5 +51,6 @@ Our mission is to disrupt the way Indian MSMEs do business through digitisation.
 
 • [UUID Module](https://hex.pm/packages/uuid_helper_module)
 
+---
 
 For more details see [FloBiz](https://flobiz.in).
