@@ -1,6 +1,6 @@
 # FloBiz (Formerly Koinex)
 
-## [About the organization](https://flobiz.in/about/)
+<a href="https://flobiz.in/about/" target="_top"><h2>About the organization</h2></a>
 
 Our mission is to disrupt the way Indian MSMEs do business through digitisation. Founded by IIT and BITS alumni, FloBiz has been incepted with the aim of digitising small businesses in India and bringing elements of formalisation into their fragmented operating processes. We are a team of hustlers who are driven by a single mission: to fuel the growth of those enterprises that fuel the growth of our economy.
 
@@ -41,4 +41,4 @@ Backed by some of the most renowned venture capitalists and angel investors acro
 
 ---
 
-For more details see [FloBiz](https://flobiz.in).
+For more details see <a href="https://flobiz.in/" target="_top">FloBiz</a>.
