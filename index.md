@@ -37,17 +37,17 @@
 
 ### Education
 
-#### M.Tech CSE
+**M.Tech CSE**
 - [IIIT Hyderabad](https://www.iiit.ac.in/)
 - 8.55 CGPA
 - Jul 2013 - May 2015
 
-#### B.Tech IT
+**B.Tech IT**
 - [MAIT (GGSIPU)](https://mait.ac.in/)
 - 85%
 - Aug 2009 - Jun 2013
 
-#### 12th CBSE
+**12th CBSE**
 - KV Shalimar Bagh, Delhi
 - 91.4%
 - Apr 2007 - May 2008
