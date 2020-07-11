@@ -4,7 +4,7 @@
 
 ### Work Experience
 
-[FloBiz](https://flobiz.in) Fintech, MSME Sector, India
+[FloBiz](https://flobiz.in) (Fintech • MSME Sector • India)
 - Engineering Lead
 - Mar 2019 - Apr 2020 • 1 yr 1 mon
 - [Roles & Responsibilities](/flobiz)
