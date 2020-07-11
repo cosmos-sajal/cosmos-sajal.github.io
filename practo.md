@@ -1,6 +1,6 @@
 # Practo Technologies Pvt Ltd.
 
-<a href="https://www.practo.com/company/about" target="_top"><h2>About the organization</h2></a>
+<h2><a href="https://www.practo.com/company/about" target="_top">About the organization</a></h2>
 
 For millions of people, Practo is the trusted and familiar home where they know they’ll find a healing touch. It connects them with everything they need to take good care of themselves and their family - assessing health issues, finding the right doctor, booking diagnostic tests, obtaining medicines, storing health records or learning new ways to live healthier.
 
