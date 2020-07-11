@@ -14,7 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://twitter.com/cosmos_sajal" style="cursor:pointer"><img style="max-width: 6%; vertical-align: text-top" src="/images/twitter_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Twitter</label></a>
   <br><br>
-  [GATE CSE Notes](/gatenotes)
+  <a href="/gatenotes" style="cursor:pointer"><label style="padding-left: 2%; cursor: pointer">GATE CSE Notes</label></a>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
