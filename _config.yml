@@ -14,7 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://twitter.com/cosmos_sajal" style="cursor:pointer"><img style="max-width: 6%; vertical-align: text-top" src="/images/twitter_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Twitter</label></a>
   <br><br>
-  <a href="https://www.instagram.com/sajal_cosmos/" style="cursor:pointer"><img style="max-width: 6%; vertical-align: text-top" src="/images/instagram_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Instagram</label></a>
+  <a href="https://www.instagram.com/sajal_cosmos/" style="cursor:pointer"><img style="max-width: 6%" src="/images/instagram_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Instagram</label></a>
   <br><br>
   <a href="/gatenotes" style="cursor:pointer"><label style="cursor: pointer">GATE CSE Notes</label></a>
 
