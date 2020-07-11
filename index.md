@@ -4,25 +4,21 @@
 
 ### Work Experience
 
-[FloBiz](https://flobiz.in) (Fintech • MSME Sector • India)
+[FloBiz](/flobiz) (Fintech • MSME Sector • India)
 - Engineering Lead
 - Mar 2019 - Apr 2020 • 1 yr 1 mon
-- [Roles & Responsibilities](/flobiz)
 
-[Practo](https://practo.com) (Healthcare Tech)
+[Practo](/practo) (Healthcare Tech)
 - Senior Software Engineer
 - Oct 2017 - Mar 2019 • 1 yr 6 mos
-- [Roles & Responsibilities](/practo)
 
-[Practo](https://practo.com) (Healthcare Tech)
+[Practo](/practo) (Healthcare Tech)
 - Software Engineer
 - Jun 2015 - Sep 2017 • 2 yr 4 mos
-- [Roles & Responsibilities](/practo)
 
-[IIIT Hyderabad](https://www.iiit.ac.in/) (Academic)
+[IIIT Hyderabad](/iiith) (Academic)
 - Teaching Assistant
 - Jul 2014 - May 2015 • 11 mos
-- [Roles & Responsibilities](/iiith)
 
 
 ---
