@@ -1,6 +1,6 @@
 <h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 4%" src="/images/back.png"></a><label style="margin-left: 2%">GATE Computer Science Notes</label></h1>
 
-## [About GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering)
+<h2><a href="https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering" target="_blank">About GATE</a></h2>
 
 The Graduate Aptitude Test in Engineering (GATE) is an examination that primarily tests the comprehensive understanding of various undergraduate subjects in engineering and science. GATE is conducted jointly by the Indian Institute of Science and seven Indian Institutes of Technologies at Roorkee, Delhi, Guwahati, Kanpur, Kharagpur, Chennai (Madras) and Mumbai (Bombay) on behalf of the National Coordination Board – GATE, Department of Higher Education, Ministry of Human Resources Development (MHRD), Government of India.
 
