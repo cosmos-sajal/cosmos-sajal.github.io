@@ -20,30 +20,25 @@
 - Teaching Assistant
 - Jul 2014 - May 2015 • 11 mos
 
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
-### Category Name 2
+### Skills
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+**Backend** • **Python** • **Django** • **MySQL** • **PostgreSQL** • **Asynchronous**
+
+**Firebase** • **Firebase Auth** • **Firebase RealDB** • **Firebase Storage** • **Firebase Cloud Functions**
+
+**Celery** • **Celery Beat** • **RabbitMQ** • **Docker** • **Redis** • **SQS** • **S3**
+
+**Data Structures + Algo** • **Tech Writer** • **Mentor** • **Lead** • **Queuing System**
+
+**Loggings** • **Startup Enthusiast** • **Deployments** • **AWS** • **SLA** • **Elixir**
+
+**Functional Programming** • **OOPS** • **Database Arch** • **High Level System Arch**
+
+**Authentication + Authorisations** • **Sentry/Airbrake** • **New Relic/Appsignal** • **nginx**
+
+**Scalyr (Request-Response Loggings)** • **ECR** • **ALB** • **Dockerfile** • **docker-compose**
 
 ---
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
