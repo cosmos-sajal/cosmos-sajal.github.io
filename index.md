@@ -5,8 +5,11 @@
 ### Work Experience
 
 [FloBiz](/flobiz)
+
 Engineering Lead
+
 Mar 2019 - Apr 2020 • 1 yr 1 mon
+
 Bengaluru, India
 
 ---
