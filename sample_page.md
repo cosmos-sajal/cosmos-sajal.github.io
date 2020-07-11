@@ -8,7 +8,8 @@ Our mission is to disrupt the way Indian MSMEs do business through digitisation.
 
 #### Engineering Lead
 
-**Elixir Based Application development (Technical Implementation)
+
+##### Elixir Based Application development (Technical Implementation)
 
 • Functional programming paradigm.
 
@@ -32,7 +33,8 @@ Our mission is to disrupt the way Indian MSMEs do business through digitisation.
 
 • Setup Cache System.
 
-`Miscellaneous`
+
+##### Miscellaneous
 
 • Taken care of Customer issues and tickets on a daily basis.
 
@@ -42,7 +44,8 @@ Our mission is to disrupt the way Indian MSMEs do business through digitisation.
 
 • Organised Tech meetups at office premises.
 
-`Libraries contributed to Elixir (Open Source)`
+
+##### Libraries contributed to Elixir (Open Source)
 
 • [Soft Delete Module](https://hex.pm/packages/soft_delete_helper_module)
 
