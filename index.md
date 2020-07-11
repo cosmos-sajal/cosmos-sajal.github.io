@@ -19,6 +19,11 @@
 - Jun 2015 - Sep 2017 • 2 yr 4 mos
 - [Roles & Responsibilities](/practo)
 
+[IIIT Hyderabad](https://www.iiit.ac.in/) (Academic)
+- Teaching Assistant
+- Jul 2014 - May 2015 • 11 mos
+- [Roles & Responsibilities](/iiith)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
