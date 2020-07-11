@@ -18,7 +18,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="/sajal_sharma.pdf" style="cursor:pointer" target="_blank"><img style="max-width: 6%; vertical-align:middle;" src="/images/resume_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Resume</label></a>
   <br><br>
-  <a href="mailto:sajal.4591@gmail.com"><img style="max-width: 6%; vertical-align:middle;" src="/images/mail_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Contact Me</label></a>
+  <a href="mailto:sajal.4591@gmail.com"><img style="max-width: 6%; vertical-align:middle;" src="/images/mail.png"><label style="padding-left: 2%; cursor: pointer">Contact Me</label></a>
   <br><br>
   <a href="/gatenotes" style="cursor:pointer"><label style="cursor: pointer">GATE CSE Notes</label></a>
 
