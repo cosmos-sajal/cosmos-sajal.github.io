@@ -1,4 +1,4 @@
-# GATE Computer Science Notes
+<h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 4%" src="/images/back.png"></a><label style="margin-left: 2%">GATE Computer Science Notes</label></h1>
 
 ## [About GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering)
 
