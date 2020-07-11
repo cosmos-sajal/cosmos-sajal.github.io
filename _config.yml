@@ -16,6 +16,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.instagram.com/sajal_cosmos/" style="cursor:pointer"><img style="max-width: 6%" src="/images/instagram_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Instagram</label></a>
   <br><br>
+  <a href="/sajal_sharma.pdf" style="cursor:pointer"><img style="max-width: 6%" src="/images/resume_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Resume</label></a>
+  <br><br>
   <a href="/gatenotes" style="cursor:pointer"><label style="cursor: pointer">GATE CSE Notes</label></a>
 
 theme: jekyll-theme-minimal
