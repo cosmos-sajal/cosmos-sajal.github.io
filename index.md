@@ -41,5 +41,3 @@
 - KV Shalimar Bagh, Delhi • 91.4% Apr • 2007 - May 2008
 
 ---
-
-**In case you are still interested** - [Resume](/sajal_sharma.pdf)
