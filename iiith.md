@@ -1,6 +1,6 @@
 # IIIT Hyderabad
 
-## [About the institute](https://www.iiit.ac.in/)
+<a href="https://www.iiit.ac.in/" target="_top"><h2>About the institute</h2></a>
 
 The International Institute of Information Technology Hyderabad (abbreviated as IIIT Hyderabad or IIITH) is a nationally accredited public technical and research university located in Hyderabad, Telangana, established by government of India in 1998 under Not-for-Profit Public Private Partnership (N-PPP) laying focus on Information Technology and other fields such as Computer Science, Electronics and Communication, and their interdisciplinary applications across other domains.
 
