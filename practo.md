@@ -1,6 +1,6 @@
 <h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 4%" src="/images/back.png"></a><label style="margin-left: 2%">Practo Technologies Pvt Ltd</label></h1>
 
-<h2><a href="https://www.practo.com/company/about" target="_top">About the organization</a></h2>
+<h2><a href="https://www.practo.com/company/about" target="_blank">About the organization</a></h2>
 
 For millions of people, Practo is the trusted and familiar home where they know they’ll find a healing touch. It connects them with everything they need to take good care of themselves and their family - assessing health issues, finding the right doctor, booking diagnostic tests, obtaining medicines, storing health records or learning new ways to live healthier.
 
@@ -34,4 +34,4 @@ Worked on chat solution between ailing Patient and helping Doctor.
 
 ---
 
-For more details see <a href="https://www.practo.com/" target="_top">Practo</a>
+For more details see <a href="https://www.practo.com/" target="_blank">Practo</a>
