@@ -1,4 +1,4 @@
-<h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 8%; vertical-align: text-top" src="/images/back.png"></a> FloBiz (Formerly Koinex)</h1>
+<h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 8%" src="/images/back.png"></a> FloBiz (Formerly Koinex)</h1>
 
 <h2><a href="https://flobiz.in/about/" target="_top">About the organization</a></h2>
 
