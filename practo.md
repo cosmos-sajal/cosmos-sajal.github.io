@@ -1,4 +1,4 @@
-# Practo Technologies Pvt Ltd.
+<h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 8%" src="/images/back.png"></a> Practo Technologies Pvt Ltd.</h1>
 
 <h2><a href="https://www.practo.com/company/about" target="_top">About the organization</a></h2>
 
