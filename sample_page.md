@@ -1,15 +1,15 @@
-## FloBiz (Formerly Koinex)
+# FloBiz (Formerly Koinex)
 
-### About the organization
+## About the organization
 
 Our mission is to disrupt the way Indian MSMEs do business through digitisation. Founded by IIT and BITS alumni, FloBiz has been incepted with the aim of digitising small businesses in India and bringing elements of formalisation into their fragmented operating processes. We are a team of hustlers who are driven by a single mission: to fuel the growth of those enterprises that fuel the growth of our economy. Backed by some of the most renowned venture capitalists and angel investors across the globe, we are singularly focused on solving the biggest challenges faced by Indian MSMEs.
 
-### Role and Responsibilites
+## Role and Responsibilites
 
-#### Engineering Lead
+### Engineering Lead
 
 
-##### Elixir Based Application development (Technical Implementation)
+#### Elixir Based Application development (Technical Implementation)
 
 • Functional programming paradigm.
 
@@ -34,7 +34,7 @@ Our mission is to disrupt the way Indian MSMEs do business through digitisation.
 • Setup Cache System.
 
 
-##### Miscellaneous
+#### Miscellaneous
 
 • Taken care of Customer issues and tickets on a daily basis.
 
@@ -45,7 +45,7 @@ Our mission is to disrupt the way Indian MSMEs do business through digitisation.
 • Organised Tech meetups at office premises.
 
 
-##### Libraries contributed to Elixir (Open Source)
+#### Libraries contributed to Elixir (Open Source)
 
 • [Soft Delete Module](https://hex.pm/packages/soft_delete_helper_module)
 
