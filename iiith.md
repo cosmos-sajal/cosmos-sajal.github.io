@@ -1,4 +1,4 @@
-# IIIT Hyderabad
+<h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 8%" src="/images/back.png"></a> IIIT Hyderabad</h1>
 
 <h2><a href="https://www.iiit.ac.in/" target="_top">About the institute</a></h2>
 
