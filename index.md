@@ -2,10 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Work Experience
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[FloBiz](/flobiz)
+Engineering Lead
+Mar 2019 - Apr 2020 • 1 yr 1 mon
+Bengaluru, India
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
