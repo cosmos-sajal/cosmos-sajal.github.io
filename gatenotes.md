@@ -24,4 +24,5 @@ The GATE score of a candidate reflects the relative performance level of a candi
 ---
 
 ## Share it with others
-- <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/posts/sajalsarwar_gate2020-gate2021-mtech-activity-6687762592338972672-cWDv">LinkedIn</a>
+- <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/posts/sajalsarwar_gate2020-gate2021-mtech-activity-6687762592338972672-cWDv" target="_blank">LinkedIn</a>
+- <a href="http://twitter.com/share?text=GATE CSE NOTES by @cosmos_sajal&url=https://cosmos-sajal.github.io/gatenotes&hashtags=gate,mtech,iit,iiith" target="_blank">Tweet It!</a>
