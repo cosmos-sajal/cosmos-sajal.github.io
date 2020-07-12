@@ -22,3 +22,6 @@ The GATE score of a candidate reflects the relative performance level of a candi
 - [Theory of Computation](/pdf/toc.pdf)
 
 ---
+
+## Share it with others
+- <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/posts/sajalsarwar_gate2020-gate2021-mtech-activity-6687762592338972672-cWDv">LinkedIn</a>
