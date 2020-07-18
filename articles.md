@@ -27,3 +27,15 @@
   </div>
 </a>
 </div>
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
+<a href="https://medium.com/hackernoon/magic-links-d680d410f8f7" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/magic_link.png?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">Magic Link: A One-click solution to most of your funnel conversion problems.</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Hackernoon</h3>
+  </div>
+</a>
+</div>
