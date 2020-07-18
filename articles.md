@@ -43,7 +43,7 @@
 <div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
 <a href="https://medium.com/practo-engineering/mysql-zero-downtime-schema-update-without-algorithm-inplace-fd427ec5b681" target="_blank">
   <div style="border: 1px solid rgba(230, 230, 230, 1)">
-  <img src="images/magic_link.png?raw=true" style="height: inherit">
+  <img src="images/mysql.jpeg?raw=true" style="height: inherit">
   </div>
   <div style="margin-top: 15px;">
     <h2 style="margin-bottom: 4px">MySQL zero downtime schema update without algorithm inplace.</h2>
