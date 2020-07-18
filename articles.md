@@ -137,6 +137,18 @@
 </a>
 </div>
 
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
+<a href="https://www.linkedin.com/pulse/til-28th-december-2019-sajal-sharma/" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/postgres.png?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">Partitioning tables in PostgreSQL (TIL 28/12/19)</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">LinkedIn</h3>
+  </div>
+</a>
+</div>
+
 ---
 ### Product Development
 
