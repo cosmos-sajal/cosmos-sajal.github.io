@@ -16,7 +16,7 @@
 </a>
 </div>
 
-<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
 <a href="https://medium.com/hackernoon/asymmetric-encryption-explained-using-chocolate-boxes-5a329ea6813e" target="_blank">
   <div style="border: 1px solid rgba(230, 230, 230, 1)">
   <img src="images/encryption.jpeg?raw=true" style="height: inherit">
