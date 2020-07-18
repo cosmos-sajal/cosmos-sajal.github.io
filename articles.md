@@ -125,6 +125,18 @@
 </a>
 </div>
 
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
+<a href="https://www.linkedin.com/pulse/how-do-basic-load-testing-postman-sajal-sharma/" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/load_testing.png?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">How to do Basic Load Testing with Postman?</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">LinkedIn</h3>
+  </div>
+</a>
+</div>
+
 ---
 ### Product Development
 
