@@ -9,8 +9,9 @@
   <div style="border: 1px solid rgba(230, 230, 230, 1)">
   <img src="images/semaphore.jpeg?raw=true" style="height: inherit">
   </div>
-  <div style="margin-top: 15px; text-align: center;">
-    <h3>Yes I coded a Semaphore, and No I am not an OS developer</h3>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 0px">Yes I coded a Semaphore, and No I am not an OS developer</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Freecodecamp</h3>
   </div>
 </a>
 </div>
