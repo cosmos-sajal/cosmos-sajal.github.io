@@ -126,7 +126,6 @@
 </div>
 
 ---
-
 ### Product Development
 
 <div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
@@ -137,6 +136,18 @@
   <div style="margin-top: 15px;">
     <h2 style="margin-bottom: 4px">Why developers should think more like product owners.</h2>
     <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Freecodecamp</h3>
+  </div>
+</a>
+</div>
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
+<a href="https://www.linkedin.com/pulse/otp-getting-delivered-delayed-heres-hack-sajal-sharma/" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/otp.gif?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">OTP not getting delivered? OTP getting delayed? Here's a hack.</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">LinkedIn</h3>
   </div>
 </a>
 </div>
