@@ -63,3 +63,15 @@
   </div>
 </a>
 </div>
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
+<a href="https://blog.cloudboost.io/the-what-how-of-heroku-deploying-apps-the-faster-way-5bcb29e699e8" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/heroku.png?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">The what & how of Heroku — Deploying apps the faster way.</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Cloudboost</h3>
+  </div>
+</a>
+</div>
