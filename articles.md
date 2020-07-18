@@ -83,7 +83,19 @@
   </div>
   <div style="margin-top: 15px;">
     <h2 style="margin-bottom: 4px">When a small piece of my code predicted the fate of US Presidential Elections.</h2>
-    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Cloudboost</h3>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Hackernoon</h3>
+  </div>
+</a>
+</div>
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
+<a href="https://medium.com/@cosmos_sajal/optimising-postgresql-query-performance-understanding-explain-analyse-a-beginning-62a6f1d2bacb" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/postgres.png?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">Optimising PostgreSQL query performance — Understanding Explain Analyse (A beginning).</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Medium</h3>
   </div>
 </a>
 </div>
