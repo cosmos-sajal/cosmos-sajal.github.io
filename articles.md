@@ -39,3 +39,15 @@
   </div>
 </a>
 </div>
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
+<a href="https://medium.com/practo-engineering/mysql-zero-downtime-schema-update-without-algorithm-inplace-fd427ec5b681" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/magic_link.png?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">MySQL zero downtime schema update without algorithm inplace.</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Practo Engineering</h3>
+  </div>
+</a>
+</div>
