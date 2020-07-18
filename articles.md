@@ -99,3 +99,15 @@
   </div>
 </a>
 </div>
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
+<a href="https://medium.com/practo-engineering/connecting-you-to-the-best-doctor-in-60-seconds-demystifying-practo-consult-791c437cf74a" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/practo.png?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">Connecting you to the right doctor in 60 seconds or less: Demystifying online consultations.</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Practo Engineering</h3>
+  </div>
+</a>
+</div>
