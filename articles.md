@@ -75,3 +75,15 @@
   </div>
 </a>
 </div>
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
+<a href="https://medium.com/hackernoon/when-a-small-piece-of-my-code-predicted-the-fate-of-us-presidential-elections-e6f2a0cced4a" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/sentiment_analysis.jpeg?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">When a small piece of my code predicted the fate of US Presidential Elections.</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Cloudboost</h3>
+  </div>
+</a>
+</div>
