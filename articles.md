@@ -140,7 +140,7 @@
 </a>
 </div>
 
-<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
 <a href="https://www.linkedin.com/pulse/otp-getting-delivered-delayed-heres-hack-sajal-sharma/" target="_blank">
   <div style="border: 1px solid rgba(230, 230, 230, 1)">
   <img src="images/otp.gif?raw=true" style="height: inherit">
