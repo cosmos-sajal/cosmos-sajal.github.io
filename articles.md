@@ -176,3 +176,17 @@
 </a>
 </div>
 
+---
+### Self Help
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
+<a href="https://www.linkedin.com/pulse/why-take-care-your-circadian-rhythm-you-want-stay-sane-sajal-sharma/" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/circadian_rhythm.jpeg?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">Why to take care of your Circadian Rhythm if you want to stay sane?</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">LinkedIn</h3>
+  </div>
+</a>
+</div>
