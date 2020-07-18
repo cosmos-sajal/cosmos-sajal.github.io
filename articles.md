@@ -10,8 +10,20 @@
   <img src="images/semaphore.jpeg?raw=true" style="height: inherit">
   </div>
   <div style="margin-top: 15px;">
-    <h2 style="margin-bottom: 0px">Yes I coded a Semaphore, and No I am not an OS developer</h2>
+    <h2 style="margin-bottom: 4px">Yes I coded a Semaphore, and No I am not an OS developer.</h2>
     <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Freecodecamp</h3>
+  </div>
+</a>
+</div>
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
+<a href="https://medium.com/hackernoon/asymmetric-encryption-explained-using-chocolate-boxes-5a329ea6813e" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/encryption.jpeg?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">Asymmetric Encryption explained with the help of chocolate boxes.</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Hackernoon</h3>
   </div>
 </a>
 </div>
