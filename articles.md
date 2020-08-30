@@ -65,6 +65,18 @@
 </a>
 </div>
 
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
+<a href="https://www.linkedin.com/pulse/pull-request-descriptions-what-why-sajal-sharma/" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/daftpunktocat-guy.gif?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">Pull Request Descriptions - the what and why</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">LinkedIn</h3>
+  </div>
+</a>
+</div>
+
 <div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
 <a href="https://blog.cloudboost.io/why-is-node-called-a-non-blocking-i-o-model-eb639063bc14" target="_blank">
   <div style="border: 1px solid rgba(230, 230, 230, 1)">
