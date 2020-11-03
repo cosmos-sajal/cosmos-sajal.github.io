@@ -1,14 +1,12 @@
 <h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 4%" src="/images/back.png"></a><label style="margin-left: 2%">Practo Technologies Pvt Ltd</label></h1>
 
-<h2><a href="https://www.practo.com/company/about" target="_blank">About the organization</a></h2>
+<h2><a href="https://www.orangehealth.in/about" target="_blank">About the organization</a></h2>
 
-For millions of people, Practo is the trusted and familiar home where they know they’ll find a healing touch. It connects them with everything they need to take good care of themselves and their family - assessing health issues, finding the right doctor, booking diagnostic tests, obtaining medicines, storing health records or learning new ways to live healthier.
-
-Healthcare providers can also harness the power of Practo as the definitive platform that helps them build their presence, grow establishments and engage patients more deeply than ever.
+Our view on healthcare is that, like much else, it should reach our homes - conveniently and affordably. We believe being connected to your doctor matters. A personal connect and context in healthcare cannot be replaced. Effective medicine will be when online and offline worlds combine. Our efforts will be to create services and products that doctors can use with their patients in clinic or remotely at their homes to better assess and diagnose patients health and provide the right treatment.
 
 ## Role and Responsibilites
 
-### Senior Software Engineer
+### Engineering Team Lead
 
 #### Backend Developer
 
@@ -34,4 +32,4 @@ Worked on chat solution between ailing Patient and helping Doctor.
 
 ---
 
-For more details see <a href="https://www.practo.com/" target="_blank">Practo</a>
+For more details see <a href="https://www.orangehealth.in/" target="_blank">Orangehealth</a>
