@@ -4,7 +4,7 @@
 
 ### Work Experience
 
-[OrangeHealth YC (S20)](/orangehealth) (Healthcare Tech • India)
+[OrangeHealth YC (S20)](/orangehealth) (Healthcare Tech)
 - Engineering Team Lead • May 2020 - Present
 
 [FloBiz (Formerly Koinex)](/flobiz) (Fintech • MSME Sector • India)
