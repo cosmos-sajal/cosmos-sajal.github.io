@@ -22,4 +22,4 @@ Our view on healthcare is that, like much else, it should reach our homes - conv
 
 ---
 
-For more details see <a href="https://www.orangehealth.in/" target="_blank">OrangeHealth</a>
+For more details see <a href="https://www.orangehealth.in/" target="_blank">Orange Health</a>
