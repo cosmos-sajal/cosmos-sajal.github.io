@@ -14,11 +14,11 @@ Our view on healthcare is that, like much else, it should reach our homes - conv
 - Everything about backend, and some part of frontend.
 - Took care of Backend Development, Infrastructure Management, co-leading the engineering efforts with fellow lead.
 - SLA for issues and resolution.
-- Setup log management (Scalyr), error management (Sentry), APM (New Relic), Infrastructure Management (AWS), Firebase setups.
+- Setup log management (Scalyr), error management (Sentry), APM (New Relic), Infrastructure Management (AWS).
 - Setup and archeitected Authentication Systems, Notification Systems, Core application backend, Firebase integration, etc.
 - Anything and everything related to backend.
 
-#### Will add more soon...
+#### More updates coming soon...
 
 ---
 
