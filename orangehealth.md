@@ -1,4 +1,4 @@
-<h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 4%" src="/images/back.png"></a><label style="margin-left: 2%">OrangeHealth</label></h1>
+<h1><a href="{{ "/" | absolute_url }}"><img style="max-width: 4%" src="/images/back.png"></a><label style="margin-left: 2%">Orange Health</label></h1>
 
 <h2><a href="https://www.orangehealth.in/about" target="_blank">About the organization</a></h2>
 
