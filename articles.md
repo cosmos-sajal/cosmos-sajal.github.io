@@ -53,6 +53,19 @@
 </a>
 </div>
 
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
+<a href="https://www.linkedin.com/pulse/how-build-payment-systems-2020s-learning-hard-way-why-sajal-sharma/" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/payment_systems.jpg?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">How to build a Payment Systems in 2020s - Learning the hard way & why a delightful UX is so important.</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">LinkedIn</h3>
+  </div>
+</a>
+</div>
+
+
 <div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px; margin-top: 20px">
 <a href="https://www.linkedin.com/pulse/making-public-shareable-secure-link-your-cloud-assets-sajal-sharma/" target="_blank">
   <div style="border: 1px solid rgba(230, 230, 230, 1)">
