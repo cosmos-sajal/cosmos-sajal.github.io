@@ -5,7 +5,7 @@
 ### Work Experience
 
 [Orange Health](/orangehealth) (Healthcare Tech)
-- **Engineering Team Lead** • May 2020 - Present
+- **Fouding Member** • May 2020 - Present
 
 [FloBiz (Formerly Koinex)](/flobiz) (Fintech • MSME Sector • India)
 - **Engineering Lead** • Mar 2019 - Apr 2020 (1 yr 1 mon)
