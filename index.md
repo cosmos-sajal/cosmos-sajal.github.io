@@ -1,6 +1,6 @@
 ## Portfolio
 
-<img style="max-width: 100%" src="/images/bg.jpeg"></a>
+<img style="max-width: 100%" src="/images/bg.jpeg">
 
 ---
 
