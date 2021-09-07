@@ -1,5 +1,7 @@
 ## Portfolio
 
+<img style="max-width: 100%" src="/images/bg.jpeg"></a>
+
 ---
 
 ### Work Experience
