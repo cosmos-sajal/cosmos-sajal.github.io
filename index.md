@@ -4,8 +4,11 @@
 
 ### Work Experience
 
+[Dunzo](/dunzo) (Grocery Delivery)
+- **Architect (DevOps)** • Dec 2022 - Present
+
 [Orange Health](/orangehealth) (Healthcare Tech)
-- **Founding Member** • May 2020 - Present
+- **Founding Member** • May 2020 - Nov 2022
 
 [FloBiz (Formerly Koinex)](/flobiz) (Fintech • MSME Sector • India)
 - **Engineering Lead** • Mar 2019 - Apr 2020 (1 yr 1 mon)
