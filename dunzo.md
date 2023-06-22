@@ -6,14 +6,15 @@ Dunzo is an all-in-one 24X7 delivery platform, that picks and delivers anything 
 
 Dunzo prides itself on providing a spirited, fair, and transparent work environment for all its employees. We focus on nurturing careers and celebrating talent.  Every opinion is given due consideration, and no voice is too feeble to be heard out. We're also strong advocates of the work-hard-play-hard philosophy, and are not ones to shy away from a good time!
 
-## Role and Responsibilites
+## Role and Responsibilities
 
 ### Architect (DevOps & Developer Productivity Engineering)
-• Management of ~100 Micro-services with Kubernetes.
-• Architect Security Module with Cloudflare WAF, API Rate limits, Bot management, and cleanup of
+
+- Management of ~100 Micro-services with Kubernetes.
+- Architect Security Module with Cloudflare WAF, API Rate limits, Bot management, and cleanup of
 Secrets across services.
-• Architect and modularization of Jenkins code for CI.
-• Management of multiple PostgreSQL instances across organization.
+- Architect and modularization of Jenkins code for CI.
+- Management of multiple PostgreSQL instances across organization.
 
 ---
 
