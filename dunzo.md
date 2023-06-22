@@ -8,7 +8,12 @@ Dunzo prides itself on providing a spirited, fair, and transparent work environm
 
 ## Role and Responsibilites
 
-### Architect (DevOps)
+### Architect (DevOps & Developer Productivity Engineering)
+• Management of ~100 Micro-services with Kubernetes.
+• Architect Security Module with Cloudflare WAF, API Rate limits, Bot management, and cleanup of
+Secrets across services.
+• Architect and modularization of Jenkins code for CI.
+• Management of multiple PostgreSQL instances across organization.
 
 ---
 
