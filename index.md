@@ -4,8 +4,11 @@
 
 ### Work Experience
 
+[BitSave](/bitsave) (Grocery Delivery)
+- **Chief Technology Officer** • Aug 2023 - Present
+
 [Dunzo](/dunzo) (Grocery Delivery)
-- **Architect (DevOps)** • Dec 2022 - Present
+- **Architect (DevOps)** • Dec 2022 - Aug 2023 (8 mon)
 
 [Orange Health](/orangehealth) (Healthcare Tech)
 - **Founding Member** • May 2020 - Nov 2022 (2 yr 7 mon)
