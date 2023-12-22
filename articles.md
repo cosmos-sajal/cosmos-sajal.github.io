@@ -5,6 +5,19 @@
 ### Technology
 
 <div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
+<a href="https://cosmos-sajal.medium.com/why-having-technical-debt-is-good-753cd0343c73" target="_blank">
+  <div style="border: 1px solid rgba(230, 230, 230, 1)">
+  <img src="images/tech_debt.webp?raw=true" style="height: inherit">
+  </div>
+  <div style="margin-top: 15px;">
+    <h2 style="margin-bottom: 4px">Why having Technical Debt is good?</h2>
+    <h3 style="color: rgba(117, 117, 117, 1); margin-bottom: 5px">Medium</h3>
+  </div>
+</a>
+</div>
+
+
+<div style="padding: 15px; border: 1px solid rgba(230, 230, 230, 1); border-radius: 5px">
 <a href="https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture/" target="_blank">
   <div style="border: 1px solid rgba(230, 230, 230, 1)">
   <img src="images/product_scratch.jpeg?raw=true" style="height: inherit">
