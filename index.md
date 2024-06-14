@@ -4,7 +4,7 @@
 
 ### Work Experience
 
-[BitSave](/bitsave) (Fintech • Crypto • Mutual Funds)
+[BitSave](/bitsave) (Fintech • Crypto Asset Management)
 - **Chief Technology Officer** • Aug 2023 - Present
 
 [Dunzo](/dunzo) (Grocery Delivery)
